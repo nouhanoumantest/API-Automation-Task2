@@ -58,7 +58,7 @@
                 <version>2.18.1</version>
                 <configuration>
                     <includes>
-                        <exclude>**/*EcommerceFreshMain.java</exclude>
+                        <exclude>**/*NotesAPITest.java</exclude>
                     </includes>
                 </configuration>
             </plugin>
